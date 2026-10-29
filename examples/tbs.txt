@@ -1,0 +1,5 @@
+# TBS buffer, 1 L
+Tris base 6.06 g
+NaCl 8.77 g
+HCl (1 M) 4 mL    # adjust pH to 7.6
+water to 1 L
